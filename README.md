@@ -1,4 +1,4 @@
 # Calculator
 Adding my calculator image
 
-<img width="300" alt="calculator" src="https://github.com/user-attachments/assets/6910b4ec-4e8e-4b93-9eea-206c1d64004b.png">
+![Screenshot (958)](https://github.com/user-attachments/assets/a9421ca1-50a1-4f97-b990-629f393cdd6b)
